@@ -1,2 +1,0 @@
-# Anush
-Created with CodeSandbox
